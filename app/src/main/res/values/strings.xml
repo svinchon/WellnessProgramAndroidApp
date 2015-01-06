@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WellnessProgram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SleepLow">Not at all</string>
+    <string name="ExerciceTitle">How Long Did You Exercice?</string>
+    <string name="ExerciceLow">Not at all</string>
+    <string name="ExerciceMedium">1h</string>
+    <string name="ExerciceHigh">2h</string>
+    <string name="MoodLow">Bad</string>
+    <string name="MoodMedium">Normal</string>
+    <string name="MoodHigh">Great</string>
+    <string name="SleepMedium">Normal</string>
+    <string name="SleepHigh">Great</string>
+    <string name="SleepTitle">How Did You Sleep?</string>
+    <string name="MoodTitle">How Do You Feel Today?</string>
+    <string name="Image">\"\"</string>
+    <string name="Submit">Submit</string>
+    <string name="Awards.No">You have reached a Health Index of HIVAL.\nThis is a very nice achievement.\nStill HIMISSING points and you will get an award.</string>
+    <string name="Awards.Yes">CONGRATULATIONS!  You have reached a Health Index of HIVAL.\nYou get award</string>
+    <string name="Tab3">New Text</string>
+
+</resources>
